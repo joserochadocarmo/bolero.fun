@@ -11,7 +11,7 @@ import 'semantic-ui-css/semantic.min.css';
 import '../assets/css/App.css';
 import ErrorView from "./views/ErrorView";
 
-const DONATE_ADDR = 'SOZAIPJMQUBOFCTDTJJDXCZEKNIYZGIGVDLFMH9FFBAYK9SWGTBCWVUTFHXDOUESZAXRJJCJESJPIEQCCKBUTVQPOW';
+const DONATE_ADDR = 'YHZIJOENEFSDMZGZA9WOGFTRXOFPVFFCDEYEFHPUGKEUAOTTMVLPSSNZNHRJD99WAVESLFPSGLMTUEIBDZRKBKXWZD';
 
 class App extends Component {
     constructor(props) {
